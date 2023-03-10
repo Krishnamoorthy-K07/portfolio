@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.77b2056a.css",
+    "main.js": "/portfolio/static/js/main.0b606035.js",
+    "static/media/JAVADEV2.png": "/portfolio/static/media/JAVADEV2.2c0f390385765e7bc67f.png",
+    "static/media/Resume(Org).pdf": "/portfolio/static/media/Resume(Org).84ebd583b3e913a2c9f7.pdf",
+    "static/media/Flip Coin.png": "/portfolio/static/media/Flip Coin.f846b6eee4362c6846c8.png",
+    "static/media/exp.jpeg": "/portfolio/static/media/exp.abe13ce9fb204f3debc7.jpeg",
+    "static/media/skill.jpg": "/portfolio/static/media/skill.9bb32ffb76352eff3f87.jpg",
+    "static/media/weather-app.png": "/portfolio/static/media/weather-app.232da7d482ab632dee3e.png",
+    "static/media/Pics Art Generator.png": "/portfolio/static/media/Pics Art Generator.db118ba1ace5a5411db6.png",
+    "index.html": "/portfolio/index.html",
+    "main.77b2056a.css.map": "/portfolio/static/css/main.77b2056a.css.map",
+    "main.0b606035.js.map": "/portfolio/static/js/main.0b606035.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b2056a.css",
+    "static/js/main.0b606035.js"
+  ]
+}
